@@ -1,4 +1,4 @@
-# Embassy Appointment Slot Notifier
+# 🌟 Embassy Appointment Slot Notifier
 
 **Description:** This project automates the process of checking for available appointment slots on the Embassy's services website. When available slots are found, it sends an email notification to the specified address.
 
@@ -18,9 +18,18 @@ This project provides support for finding appointment slots at both the Finnish 
 
 - **Finnish Embassy Slots**: You can configure this project to find and notify you about available appointment slots at the Finnish Embassy. Customize the settings in `cypress.env.json` to match your Finnish Embassy portal details.
 
-- **German Embassy Slots**: Additionally, this project extends its support to find German Embassy appointment slots. Configure the project by providing your German Embassy portal credentials in `cypress.env.json`.
+- **German Embassy Slots**: Additionally, this project extends its support to find German Embassy appointment slots.
 
 This dual support makes the Embassy Appointment Slot Notifier versatile and suitable for various appointment needs, whether it's for travel, study, or any other purpose.
+
+✨ **What's New?**
+
+- Enhanced reliability and flexibility in slot checking.
+- Support for both Finnish and German Embassy appointment slots.
+- Improved email notifications to keep you informed.
+- Seamless integration with your personal email for notifications.
+
+Don't miss out on the enhanced capabilities and ease of use. We recommend transitioning to the this latest Cypress-based version for an even smoother experience. Explore the project and stay ahead in your appointment scheduling journey! 🤖✨
 
 ## Prerequisites
 
