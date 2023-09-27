@@ -102,7 +102,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the GNU General Public License (GPL-3.0). See the [LICENSE](https://github.com/AliTahir-101/slot-notifier-cypress/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](https://github.com/AliTahir-101/slot-notifier-cypress/blob/main/LICENSE) file for details.
 
 ## Disclaimer
 
